@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Vishwajeet Gaikwad  
+# 👋 Hey there! I'm Vishvajeet Gaikwad  
 **Full-Stack Developer | Freelance Developer | AI Enthusiast 🚀**  
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer, Freelance Developer, and AI Enthusiast. I thrive on building innovative projects, solving complex problems, and constantly learning about the ever-evolving tech landscape.
 
