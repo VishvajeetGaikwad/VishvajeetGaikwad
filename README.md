@@ -81,11 +81,9 @@ As a Freelance Developer, I offer a variety of services, including:
 ## 🌍 Let's Connect!
 Feel free to reach out to me for project collaborations, freelance opportunities, or just to chat about tech:
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 **LinkedIn**: [Vishwajeet Gaikwad](https://www.linkedin.com/in/vishwajeet-gaikwad)
-- 🐦 **Twitter**: [@VishwajeetGaik](https://twitter.com/VishwajeetGaik)
-- 🌐 **Website**: [your-website-link](https://your-website-link.com)
-- 📸 **Instagram**: [@Vishwajeet_Photos](https://instagram.com/Vishwajeet_Photos)
+- 📧 **Gmail**: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 **Portfolio**: [your-website-link](https://your-website-link.com)
+
 
 ## 🎉 Fun Facts
 - 📸 **Riding**: I love riding bikes and exploring new places on two wheels.
